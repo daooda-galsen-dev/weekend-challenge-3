@@ -1,3 +1,3 @@
 # weekend-challenge-3
 
-A coding challenge organized by github.com/xarala221
+A coding challenge organized by @xarala221
